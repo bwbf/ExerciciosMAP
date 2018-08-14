@@ -20,11 +20,21 @@ em anexo
 
 
 6.	Mostre a implementação de uma classe ContaBancária. Invente atributos e métodos.
+
+em anexo
+
 7.	Explique a diferença de funcionamento entre um "return" e um "throw". Seja específico.
+
+retorno é utilizado quando para passar a resposta esperada pelo metodo, o thrwo retorna o exception causado durante a execução do mesmo.
+
+
 8.	Mostre, usando Java, como especializar uma classe ContaBancária para criar uma ContaCorrente e uma ContaPoupança.
 9.	Explique as vantagens e desvantagens do polimorfismo. Dê exemplos.
 10.	Explique a afirmação: "Em Java, o conceito de interfaces permite obter mais polimorfismo do que seria possível com classes abstratas".
 11.	Qual é a diferença entre "herança de tipo" e "herança de implementação"?
+
+Herança de tipo vai herdar os atributos, herança de implementação vai herdar os metodos apenas sobscrevendo de acordo com a necessidade.
+
 12.	Quais são as vantagens e desvantagens de acoplamento forte entre objetos?
 13.	Ao falar de boa programação, fala-se: "A decomposição deve esconder algo." O que poderia ser escondido, por exemplo?
 14.	O que é uma "responsabilidade de uma classe"? Por que queremos minimizar o número de responsabilidades? "Mais" não seria melhor?
