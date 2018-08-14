@@ -57,5 +57,20 @@ public class Conta{
 		return mCPF;
 	}
 	
-	public 
+	public void adicionaSaldo(double valor){
+		if(valor > 0){
+			saldo = saldo + valor;
+		}
+		
+	}
+	
+	public void removeSaldo(double valor){
+		if(saldo > valor && valor > 0){
+			saldo = saldo - valor;
+		}
+	}
+	
+	public void tranferencia(Conta conta, double valor){
+		conta.adcionasaldo(valor);
+	}
 }
