@@ -1,0 +1,32 @@
+1.	Defina o que é feito na etapa de Análise e o que é feito na etapa de Projeto ao desenvolver software.
+
+
+2.	Enumere as vantagens da abordagem Orientada a Objetos para o desenvolvimento de software.
+
+Provê uma melhor organização do código.
+Contribui para o reaproveitamento de código.
+Facilidade na manutenção e reutilização do código.
+
+3.	Qual é o motivo de levantar Requisitos Funcionais para desenvolver software e o que faz parte de uma descrição de Requisitos Funcionais?
+
+Garantir que a funcionalidade tenha o retorno esperado com o seu comportamento descrito. O que é esperado ao realizar determinada ação ou conjunto de ações.
+
+
+4.	Mostre como instanciar um objeto da classe ContaBancária em Java fornecendo o CPF (um string) do titular como argumento. Com o objeto resultante, faça um depósito de R$100,00 e imprima o saldo. Você pode escolher nomes apropriados para os métodos.
+
+em anexo
+
+5.	Explique o que é um Iterator em Java. Qual é sua principal vantagem?
+
+
+6.	Mostre a implementação de uma classe ContaBancária. Invente atributos e métodos.
+7.	Explique a diferença de funcionamento entre um "return" e um "throw". Seja específico.
+8.	Mostre, usando Java, como especializar uma classe ContaBancária para criar uma ContaCorrente e uma ContaPoupança.
+9.	Explique as vantagens e desvantagens do polimorfismo. Dê exemplos.
+10.	Explique a afirmação: "Em Java, o conceito de interfaces permite obter mais polimorfismo do que seria possível com classes abstratas".
+11.	Qual é a diferença entre "herança de tipo" e "herança de implementação"?
+12.	Quais são as vantagens e desvantagens de acoplamento forte entre objetos?
+13.	Ao falar de boa programação, fala-se: "A decomposição deve esconder algo." O que poderia ser escondido, por exemplo?
+14.	O que é uma "responsabilidade de uma classe"? Por que queremos minimizar o número de responsabilidades? "Mais" não seria melhor?
+15.	Por que modelar papeis (roles) através de herança é inferior a modelá-los através de composição?
+
