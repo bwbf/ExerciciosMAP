@@ -1,0 +1,1 @@
+No meu ponto de vista no caso da Pizzaria, a utilização do padrão Builder se encaixa melhor devido ao grande numero de contruções diferentes para o mesmo tipo de objeto, se torna mais viavel e auxilia na manutenção.
